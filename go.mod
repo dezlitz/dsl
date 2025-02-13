@@ -1,4 +1,4 @@
-module github.com/dezlitz/dsl
+module github.com/inrush-io/dsl
 
 go 1.22.2
 

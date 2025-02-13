@@ -1,7 +1,7 @@
 package json
 
 import (
-	"github.com/dezlitz/dsl"
+	"github.com/inrush-io/dsl"
 )
 
 // NodeType represents the type of a node in the AST.
